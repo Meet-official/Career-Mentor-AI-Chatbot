@@ -93,5 +93,5 @@ An interactive AI-powered chatbot built with **Flask** and **Gemini 1.5 API** to
 ## 🙌 Acknowledgements
 
 * Built with 💙 using **Flask** and **Google Gemini API**
-* Developed by \[Meet Patel]
+* Developed by ~Meet Patel
 
