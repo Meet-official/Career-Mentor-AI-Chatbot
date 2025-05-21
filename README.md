@@ -90,14 +90,8 @@ An interactive AI-powered chatbot built with **Flask** and **Gemini 1.5 API** to
 
 ---
 
-## 📜 License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
----
-
 ## 🙌 Acknowledgements
 
 * Built with 💙 using **Flask** and **Google Gemini API**
-* Developed by \[Your Name]
+* Developed by \[Meet Patel]
 
