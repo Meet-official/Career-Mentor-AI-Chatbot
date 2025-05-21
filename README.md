@@ -1,8 +1,3 @@
-Absolutely! Here's the **exact markdown content** you can paste directly into your `README.md` file. It uses proper Markdown syntax like `**bold**`, backticks for code, headers with `#`, and image syntax—all set to give a professional look on GitHub.
-
----
-
-```markdown
 # 💼 AI Career Mentor Chatbot
 
 An interactive AI-powered chatbot built with **Flask** and **Gemini 1.5 API** to provide personalized career mentorship and guidance in fields like cybersecurity, interviews, and tech industry trends.
