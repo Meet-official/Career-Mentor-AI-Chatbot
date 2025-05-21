@@ -51,8 +51,8 @@ An interactive AI-powered chatbot built with **Flask** and **Gemini 1.5 API** to
 
 1. **Clone this repository**
    ```bash
-   git clone https://github.com/your-username/ai-career-mentor-chatbot.git
-   cd ai-career-mentor-chatbot
+   git clone https://github.com/Meet-official/Career-Mentor-AI-Chatbot.git
+   cd Career-Mentor-AI-Chatbot
 
 2. **Install the required packages**
 
