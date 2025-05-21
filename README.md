@@ -4,6 +4,14 @@ An interactive AI-powered chatbot built with **Flask** and **Gemini 1.5 API** to
 
 ---
 
+## 🖼️ Project Preview
+
+![Chat UI](MitAssets/chatbot_ui.png)
+
+> 💡 *You can customize this chatbot into a Health Advisor, Interview Assistant, or Learning Guide easily.*
+
+---
+
 ## 🚀 Features
 
 - 🔐 Career guidance in **Cybersecurity**, **Tech Industry**, **Interview Prep**, and more.
@@ -14,13 +22,6 @@ An interactive AI-powered chatbot built with **Flask** and **Gemini 1.5 API** to
 
 ---
 
-## 🖼️ Project Preview
-
-![Chat UI](MitAssets/chatbot_ui.png)
-
-> 💡 *You can customize this chatbot into a Health Advisor, Interview Assistant, or Learning Guide easily.*
-
----
 
 ## 🛠️ Tech Stack
 
@@ -52,7 +53,6 @@ An interactive AI-powered chatbot built with **Flask** and **Gemini 1.5 API** to
    ```bash
    git clone https://github.com/your-username/ai-career-mentor-chatbot.git
    cd ai-career-mentor-chatbot
-````
 
 2. **Install the required packages**
 
