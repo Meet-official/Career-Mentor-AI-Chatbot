@@ -1,4 +1,4 @@
-# 💼 AI Career Mentor Chatbot
+# Career Mentor AI Chatbot 💼
 
 An interactive AI-powered chatbot built with **Flask** and **Gemini 1.5 API** to provide personalized career mentorship and guidance in fields like cybersecurity, interviews, and tech industry trends.
 
