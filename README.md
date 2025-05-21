@@ -18,7 +18,7 @@ An interactive AI-powered chatbot built with **Flask** and **Gemini 1.5 API** to
 
 | Chat UI | Backend Logic | Health Bot Variant |
 |--------|----------------|---------------------|
-| ![Chat UI](./assets/chat_ui.png) | ![Backend](./assets/backend.png) | ![Health Bot](./assets/health_bot.png) |
+| ![Chat UI](MitAssets/Screenshot (249).png) | ![Backend](./assets/backend.png) | ![Health Bot](./assets/health_bot.png) |
 
 > 💡 *You can customize this chatbot into a Health Advisor, Interview Assistant, or Learning Guide easily.*
 
